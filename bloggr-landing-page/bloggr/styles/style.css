@@ -1,0 +1,17 @@
+.header-container {
+  background-color: red;
+  color: #fff;
+}
+
+.header-container__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 3rem;
+}
+
+.header-container__text {
+  text-align: center;
+}
+
+// investigate adding in sass to the vite project
